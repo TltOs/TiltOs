@@ -1,6 +1,6 @@
 ## HI welcome to TltOs !! 
 
-TltOs better known as TiltOs, is an idea
+TltOs,better known as "TiltOs", is an idea that,
 I The Linux Tube have been asked to do.
 I've had many channel Subscribers ask me
 to create a Linux Distro. Since I review 
